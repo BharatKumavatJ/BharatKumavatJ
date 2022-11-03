@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @BharatKumavatJ
 - 👀 I’m interested in Software devlopement
+
 - 🌱 I’m currently learning web devlopement, data structure and algorithms
+- Backend devlopmenet Spring boot, Maven, MVC 
 - 📫 How to reach me 
 - bharatkumarchauhan179@gmail.com
 
