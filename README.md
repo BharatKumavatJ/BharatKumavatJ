@@ -1,14 +1,12 @@
-- 👋 Hi, I’m @BharatKumavatJ
-- 👀 I’m interested in Software devlopement
+# **Welcome to my Github Profile**
 
-- 🌱 I’m currently learning web devlopement, data structure and algorithms
-- Backend devlopmenet Spring boot, Maven, MVC 
-- 📫 How to reach me 
-- bharatkumarchauhan179@gmail.com
+## About me:
 
- 
+I am pasinated Software Engineer with 2 years of experience in developing Cyber Security integration in various programming languages.
 
-<!---
-BharatKumavatJ/BharatKumavatJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Skills
+
+Programming Languages: TypeScript, Python, Java
+Devops Tools: Docker, Kubernetes, Prometheus
+Cloud Platforms: AWS, GCP, Azure, Oracle
+Additional Skills: Clean code, Debugging
